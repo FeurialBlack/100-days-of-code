@@ -8,14 +8,13 @@
 
 **Link to work:** C programming Repository
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: Dec 07, 2020 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: did coding for around 2 hrs.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: did coding about programs mentioned in the exercise.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** C programming Repository
 
 
 ### Day 1: June 27, Monday
