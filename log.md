@@ -2,11 +2,11 @@
 
 ### Day 1: Dec 06, 2020 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked for more than 3 hrs.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** i worked alot and was frustrated as was unable to build the logic but i was improving and was able to build logic at later as the time passed.overall i was very frustrated when things wasnt going my way.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** C programming Repository
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
