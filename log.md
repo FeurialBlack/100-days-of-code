@@ -7,7 +7,7 @@
 **Thoughts:** i worked alot and was frustrated as was unable to build the logic but i was improving and was able to build logic at later as the time passed.overall i was very frustrated when things wasnt going my way.
 
 **Link to work:** C programming Repository
-
+<br>
 
 
 ### Day 2: Dec 07, 2020 
@@ -18,7 +18,7 @@
 
 **Link to work:** C programming Repository
 
-
+<br>
 
 ### Day 3: Dec 08, 2020 
 
@@ -28,7 +28,7 @@
 
 **Link to work:** Braintester Repository
 
-
+<br>
 
 ### Day 4: Dec 09, 2020 
 
@@ -38,7 +38,7 @@
 
 **Link to work:** C programming Repository
 
-
+<br>
 
 
 ### Day 1: June 27, Monday
