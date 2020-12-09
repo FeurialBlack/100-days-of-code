@@ -8,6 +8,8 @@
 
 **Link to work:** C programming Repository
 
+
+
 ### Day 2: Dec 07, 2020 
 
 **Today's Progress**: did coding for around 2 hrs.
@@ -15,6 +17,8 @@
 **Thoughts**: did coding about programs mentioned in the exercise.
 
 **Link to work:** C programming Repository
+
+
 
 ### Day 3: Dec 08, 2020 
 
@@ -24,6 +28,8 @@
 
 **Link to work:** Braintester Repository
 
+
+
 ### Day 4: Dec 09, 2020 
 
 **Today's Progress**: Did coding for almost 1.45-2hrs.
@@ -31,6 +37,8 @@
 **Thoughts**: Worked on the exercises of C programming.
 
 **Link to work:** C programming Repository
+
+
 
 
 ### Day 1: June 27, Monday
