@@ -16,6 +16,22 @@
 
 **Link to work:** C programming Repository
 
+### Day 3: Dec 08, 2020 
+
+**Today's Progress**: did coding for around 4 hrs and learnt about pointers.
+
+**Thoughts**: Worked on the Braintester project.
+
+**Link to work:** Braintester Repository
+
+### Day 4: Dec 09, 2020 
+
+**Today's Progress**: Did coding for almost 1.45-2hrs.
+
+**Thoughts**: Worked on the exercises of C programming.
+
+**Link to work:** C programming Repository
+
 
 ### Day 1: June 27, Monday
 
