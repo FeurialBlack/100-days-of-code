@@ -40,6 +40,15 @@
 **Link to work:** C programming Repository
 
 <br>
+### Day 4: Dec 10, 2020 
+
+**Today's Progress**: Did coding for almost 30mins.
+
+**Thoughts**: Worked on the arrays 1d,2d,3d exercises of C programming.
+
+**Link to work:** C programming Repository
+
+<br>
 
 
 ### Day 1: June 27, Monday
