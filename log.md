@@ -40,7 +40,8 @@
 **Link to work:** C programming Repository
 
 <br>
-### Day 4: Dec 10, 2020 
+
+### Day 5: Dec 10, 2020 
 
 **Today's Progress**: Did coding for almost 30mins.
 
