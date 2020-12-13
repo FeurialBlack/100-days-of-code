@@ -71,6 +71,16 @@
 
 <br>
 
+### Day 8: Dec 13, 2020 
+
+**Today's Progress**: Did coding for almost 4hrs.
+
+**Thoughts**: Worked on the every chapter exercise of C programming.
+
+**Link to work:** C programming Repository
+
+<br>
+
 
 ### Day 1: June 27, Monday
 
