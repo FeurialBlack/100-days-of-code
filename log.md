@@ -51,6 +51,16 @@
 
 <br>
 
+### Day 6: Dec 11, 2020 
+
+
+<br>
+
+### Day 7: Dec 12, 2020 
+
+
+<br>
+
 
 ### Day 1: June 27, Monday
 
