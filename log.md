@@ -71,7 +71,7 @@
 
 <br>
 
-### Day 8: Dec 13, 2020 
+### Day 9: Dec 14, 2020 
 
 **Today's Progress**: Did coding for almost 4hrs.
 
